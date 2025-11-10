@@ -1,0 +1,6 @@
+ hello we are learning git
+
+
+newline1
+newline2
+newline3
